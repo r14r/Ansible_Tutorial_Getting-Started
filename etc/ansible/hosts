@@ -1,0 +1,14 @@
+ansible1
+ansible2
+ansible3
+
+
+[nodes]
+ansible1
+ansible2
+ansible3
+
+[webservers]
+ansible1
+ansible2
+ansible3
